@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253481577932",
+    "firebase_url": "https://lablog-d9430-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lablog-d9430",
+    "storage_bucket": "lablog-d9430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253481577932:android:6c771fd358c485d5eb8169",
+        "android_client_info": {
+          "package_name": "com.kavarera.lab_log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253481577932-83h8fan6i1dt7vjkof650sp87p0bt5q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxEWRPSs2dtPVOLhXVZawnDxnn8NRmLN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253481577932-83h8fan6i1dt7vjkof650sp87p0bt5q3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253481577932-47lji9nhlt007pkrvk4jm2kovbjqp6cs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kavarera.labLog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
