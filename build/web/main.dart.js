@@ -76880,7 +76880,7 @@ $1(a){A.Ia($.bu(),"Session Expired","Your session is expired",A.ww(255,255,255,1
 A.fA(J.bU(a))},
 $S:13}
 A.rS.prototype={
-R(a){var s,r=null,q=t.F,p=A.kE(r,A.nY(A.a([A.aq_(B.Y,A.cZ("LabLog",A.dr().$2$fontSize$fontWeight(128,B.bh)),B.u,B.k4),A.cZ("by Kavarera & Denisha",A.dr().$2$color$fontSize(B.i,20))],q),B.ag,B.bx,B.aE),B.u,r,r,r,r,r,r,B.hv,1/0),o=A.cY(r,86,r),n=A.aq_(B.Y,A.cZ("Let's Get Started",A.dr().$1$fontSize(48)),B.u,B.k4),m=A.cY(r,20,r),l=A.ar6("assets/icons/devicon_google.svg",24),k=$.aV
+R(a){var s,r=null,q=t.F,p=A.kE(r,A.nY(A.a([A.aq_(B.Y,A.cZ("LabLog",A.dr().$2$fontSize$fontWeight(128,B.bh)),B.u,B.k4),A.cZ("version 1.0.10",A.dr().$2$color$fontSize(B.i,20))],q),B.ag,B.bx,B.aE),B.u,r,r,r,r,r,r,B.hv,1/0),o=A.cY(r,86,r),n=A.aq_(B.Y,A.cZ("Let's Get Started",A.dr().$1$fontSize(48)),B.u,B.k4),m=A.cY(r,20,r),l=A.ar6("assets/icons/devicon_google.svg",24),k=$.aV
 if(k==null)k=$.aV=B.D
 k=k.cB(0,r,A.o(this).h("et.T")).ax.gm(0)?new A.wn(r,r,B.j,r,r,r,r):A.cZ("Sign In With UPNVY Email",A.dr().$2$color$fontSize(B.j,20))
 s=t.Il
