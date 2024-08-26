@@ -18,6 +18,7 @@ class Auth {
     if (gsiAuth.accessToken == null) {
       throw Exception("Failed to retrieve authentication tokens.");
     }
+
     final AuthCredential ac =
         GoogleAuthProvider.credential(accessToken: gsiAuth.accessToken!);
 

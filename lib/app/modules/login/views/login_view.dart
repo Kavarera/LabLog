@@ -29,7 +29,7 @@ class LoginView extends GetView<LoginController> {
                   ),
                 ),
                 Text(
-                  'by Kavarera & Denisha',
+                  'version 1.0.10',
                   style: GoogleTextStyle.regularWeb(),
                 )
               ],
